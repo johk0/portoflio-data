@@ -1,20 +1,29 @@
 {
+	"author": {
+		"name": "Youssef Ahmed",
+		"title": "Front End Developer",
+		"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/avatar-1.svg",
+		"imageName": "avater-1"
+	},
 	"services": [
 		{
 			"id": 1,
 			"image": "service-1",
+			"imageName": "",
 			"title": "UI/UX design",
 			"description": "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget."
 		},
 		{
 			"id": 2,
 			"title": "Web Development",
+			"imageName": "",
 			"image": "service-2",
 			"description": "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget."
 		},
 		{
 			"id": 3,
 			"title": "Photography",
+			"imageName": "",
 			"image": "service-3",
 			"description": "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget."
 		}
@@ -73,18 +82,21 @@
 		{
 			"id": 1,
 			"image": "work-1",
+			"imageName": "",
 			"title": "Project Management Illustration",
 			"category": "Design"
 		},
 		{
 			"id": 2,
 			"image": "work-2",
+			"imageName": "",
 			"title": "Guest App Walkthrough Screens",
 			"category": "Art"
 		},
 		{
 			"id": 3,
 			"image": "work-3",
+			"imageName": "",
 			"title": "Delivery App Wireframe",
 			"category": "Branding"
 		},
@@ -92,6 +104,7 @@
 		{
 			"id": 4,
 			"image": "work-4",
+			"imageName": "",
 			"title": "Onboarding Motivation",
 			"category": "Design"
 		},
@@ -99,6 +112,7 @@
 		{
 			"id": 5,
 			"image": "work-5",
+			"imageName": "",
 			"title": "iMac Mockup Design",
 			"category": "Creative"
 		},
@@ -106,6 +120,7 @@
 		{
 			"id": 6,
 			"image": "work-6",
+			"imageName": "",
 			"title": "Game Store App Concept",
 			"category": "Art"
 		}
@@ -114,6 +129,7 @@
 		{
 			"id": 1,
 			"image": "reviwer-1",
+			"imageName": "",
 			"title": "John Doe",
 			"subtitle": "Product designer at Dribble",
 			"comment": "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍"
@@ -121,6 +137,7 @@
 		{
 			"id": 2,
 			"image": "reviwer-2",
+			"imageName": "",
 			"title": "John Doe",
 			"subtitle": "Product designer at Dribble",
 			"comment": "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍"
