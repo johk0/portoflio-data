@@ -7,6 +7,17 @@
 		"image-3": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/avatar-3.svg",
 		"imageName": "avater-1"
 	},
+	"skills": [
+		{
+			"html": 100
+		},
+		{
+			"css": 900
+		},
+		{
+			"javascript": 85
+		}
+	],
 	"services": [
 		{
 			"id": 1,
