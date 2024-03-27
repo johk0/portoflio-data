@@ -9,19 +9,19 @@
 	},
 	"skills": [
 		{
-			"html": {
+			"Web Development": {
 				"precentage": 99,
-				"color": "rgb(225,209,92)"
+				"color": "rgb(255, 76, 96)"
 			}
 		},
 		{
-			"css": {
+			"UI & UX Design": {
 				"precentage": 85,
-				"color": "rgb(225,209,92)"
+				"color": "rgb(108, 108, 229)"
 			}
 		},
 		{
-			"javascript": {
+			"Branding": {
 				"precentage": 92,
 				"color": "rgb(225,209,92)"
 			}
