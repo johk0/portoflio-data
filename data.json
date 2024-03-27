@@ -9,19 +9,19 @@
 	},
 	"skills": [
 		{
-			"Web Development": {
+			"html": {
 				"precentage": 99,
-				"color": "rgb(255, 108, 92)"
+				"color": "rgb(225,209,92)"
 			}
 		},
 		{
-			"UI & UX": {
+			"css": {
 				"precentage": 85,
-				"color": "rgb(108, 108, 299)"
+				"color": "rgb(225,209,92)"
 			}
 		},
 		{
-			"Marketing": {
+			"javascript": {
 				"precentage": 92,
 				"color": "rgb(225,209,92)"
 			}
@@ -40,22 +40,22 @@
 	"services": [
 		{
 			"id": 1,
-			"image": "service-1",
-			"imageName": "",
 			"title": "UI/UX design",
+			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/service-1.svg",
+			"imageName": "",
 			"description": "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget."
 		},
 		{
 			"id": 2,
 			"title": "Web Development",
+			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/service-2.svg",
 			"imageName": "",
-			"image": "service-2",
 			"description": "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget."
 		},
 		{
 			"id": 3,
 			"title": "Photography",
-			"imageName": "",
+			"imageName": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/service-3.svg",
 			"image": "service-3",
 			"description": "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget."
 		}
