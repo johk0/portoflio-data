@@ -55,8 +55,8 @@
 		{
 			"id": 3,
 			"title": "Photography",
-			"imageName": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/service-3.svg",
-			"image": "service-3",
+			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/service-3.svg",
+			"imageName": "service-3",
 			"description": "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget."
 		}
 	],
