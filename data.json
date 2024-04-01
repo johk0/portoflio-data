@@ -115,6 +115,7 @@
 			"id": 1,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-1.svg",
 			"imageName": "",
+			"link": "#",
 			"title": "Project Management Illustration",
 			"category": "Design"
 		},
@@ -122,6 +123,7 @@
 			"id": 2,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-2.svg",
 			"imageName": "",
+			"link": "#",
 			"title": "Guest App Walkthrough Screens",
 			"category": "Art"
 		},
@@ -129,6 +131,7 @@
 			"id": 3,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-3.svg",
 			"imageName": "",
+			"link": "#",
 			"title": "Delivery App Wireframe",
 			"category": "Branding"
 		},
@@ -137,6 +140,7 @@
 			"id": 4,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-4.svg",
 			"imageName": "",
+			"link": "#",
 			"title": "Onboarding Motivation",
 			"category": "Design"
 		},
@@ -145,6 +149,7 @@
 			"id": 5,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-5.svg",
 			"imageName": "",
+			"link": "#",
 			"title": "iMac Mockup Design",
 			"category": "Creative"
 		},
@@ -153,6 +158,7 @@
 			"id": 6,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-6.svg",
 			"imageName": "",
+			"link": "#",
 			"title": "Game Store App Concept",
 			"category": "Art"
 		}
