@@ -169,7 +169,7 @@
 			"advantages": ["1 week support", "simple website", "5 email addresses"],
 			"price": 100,
 			"discount": "10%",
-			"image-1": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-1.svg"
+			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-1.svg"
 		},
 		{
 			"title": "Premium",
@@ -180,7 +180,7 @@
 			],
 			"price": 200,
 			"discount": "10%",
-			"image-2": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-2.svg"
+			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-2.svg"
 		},
 		{
 			"title": "Ultimate",
@@ -192,7 +192,7 @@
 			],
 			"price": 250,
 			"discount": "10%",
-			"image-3": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-3.svg"
+			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-3.svg"
 		}
 	],
 	"reviews": [
