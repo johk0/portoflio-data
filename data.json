@@ -172,7 +172,7 @@
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-1.svg"
 		},
 		{
-			"title": "Premium",
+			"title": "premium",
 			"advantages": [
 				"1 month support",
 				"professional website",
@@ -183,7 +183,7 @@
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-2.svg"
 		},
 		{
-			"title": "Ultimate",
+			"title": "ultimate",
 			"advantages": [
 				"1 year support",
 				"professional website",
