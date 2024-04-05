@@ -163,6 +163,13 @@
 			"category": "Art"
 		}
 	],
+	"pricing": [
+		{
+			"image-1": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-1.svg",
+			"image-2": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-2.svg",
+			"image-3": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-3.svg"
+		}
+	],
 	"reviews": [
 		{
 			"id": 1,
