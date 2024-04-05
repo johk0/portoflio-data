@@ -168,7 +168,7 @@
 			"title": "basic",
 			"advantages": ["1 week support", "simple website", "5 email addresses"],
 			"price": 100,
-			"discount": "10%",
+			"discount": ["Eid El-Eftar", 10],
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-1.svg"
 		},
 		{
@@ -179,7 +179,7 @@
 				"10 email addresses"
 			],
 			"price": 200,
-			"discount": "10%",
+			"discount": ["Eid El-Eftar", 10],
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-2.svg"
 		},
 		{
@@ -191,7 +191,7 @@
 				"dashboard"
 			],
 			"price": 250,
-			"discount": "10%",
+			"discount": ["Eid El-Eftar", 10],
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-3.svg"
 		}
 	],
