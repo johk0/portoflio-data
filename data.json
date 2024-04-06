@@ -167,6 +167,7 @@
 		{
 			"title": "basic",
 			"advantages": ["1 week support", "simple website", "5 email addresses"],
+			"disadvantages": ["no dashboard"],
 			"price": 100,
 			"discount": ["Eid El-Eftar", 10],
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-1.svg"
@@ -178,6 +179,7 @@
 				"professional website",
 				"10 email addresses"
 			],
+			"disadvantages": ["no dashboard"],
 			"price": 200,
 			"discount": ["Eid El-Eftar", 10],
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/price-2.svg"
