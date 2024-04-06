@@ -200,16 +200,32 @@
 	"reviews": [
 		{
 			"id": 1,
-			"image": "reviwer-1",
-			"imageName": "",
+			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/reviewer-1.svg",
+			"imageName": "reviewer-1",
 			"title": "John Doe",
 			"subtitle": "Product designer at Dribble",
 			"comment": "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍"
 		},
 		{
 			"id": 2,
-			"image": "reviwer-2",
-			"imageName": "",
+			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/avatar-1.svg",
+			"imageName": "avater-1",
+			"title": "John Doe",
+			"subtitle": "Product designer at Dribble",
+			"comment": "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍"
+		},
+		{
+			"id": 2,
+			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/avatar-2.svg",
+			"imageName": "avater-2",
+			"title": "John Doe",
+			"subtitle": "Product designer at Dribble",
+			"comment": "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍"
+		},
+		{
+			"id": 2,
+			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/avatar-3.svg",
+			"imageName": "avater-3",
 			"title": "John Doe",
 			"subtitle": "Product designer at Dribble",
 			"comment": "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍"
