@@ -65,9 +65,10 @@
 			"id": 1,
 			"category": "education",
 			"icon": "icon-graduation",
-			"year": "2019 - present",
-			"title": "Academic Degree",
-			"desc": "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto."
+			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/NASA_logo.svg",
+			"year": "October 2023 - November 2024",
+			"title": "Software Manager",
+			"desc": "our target was to build a game to help kids to learn about space and the solar system depends on NASA resources."
 		},
 		{
 			"id": 2,
