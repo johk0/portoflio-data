@@ -128,8 +128,8 @@
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-2.svg",
 			"imageName": "",
 			"link": "https://johk0.github.io/nasa/",
-			"projectName": "nasa game website",
-			"title": "Game Website",
+			"projectName": "portfolio website",
+			"title": "portfolio website",
 			"category": "Web Development"
 		},
 		{
@@ -137,8 +137,8 @@
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-3.svg",
 			"imageName": "",
 			"link": "https://johk0.github.io/hung-man-game/",
-			"projectName": "hang man game",
-			"title": "Hang man game website",
+			"projectName": "Game Website",
+			"title": "Game Website",
 			"category": "Web Development"
 		},
 
@@ -148,7 +148,7 @@
 			"imageName": "",
 			"link": "https://johk0.github.io/Homepage/",
 			"projectName": "portfolio website",
-			"title": "portfolio website",
+			"title": "Hang Man Game",
 			"category": "Web Development"
 		},
 
