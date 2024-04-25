@@ -64,7 +64,7 @@
 	"experience": [
 		{
 			"id": 3,
-			"category": "education",
+			"category": "experience",
 			"icon": "icon-graduation",
 			"year": "October 2023 - November 2024",
 			"company": "NASA",
@@ -104,7 +104,7 @@
 		},
 		{
 			"id": 1,
-			"category": "experience",
+			"category": "education",
 			"icon": "icon-graduation",
 			"year": "septemper 2022 - september 2027",
 			"company": "Faculty of Engineering - Helwan University",
