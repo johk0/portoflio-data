@@ -1,7 +1,7 @@
 {
 	"author": {
 		"name": "Youssef Ahmed",
-		"title": "Front End Developer",
+		"title": "Web Developer",
 		"image-1": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/the%20author.svg",
 		"image-2": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/logo.svg",
 		"image-3": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/avatar-3.svg",
@@ -84,7 +84,7 @@
 		},
 		{
 			"id": 5,
-			"category": "experience",
+			"category": "education",
 			"icon": "icon-briefcase",
 			"year": "May 2023 - present",
 			"company": "IEEE",
@@ -110,7 +110,7 @@
 			"company": "Faculty of Engineering - Helwan University",
 			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/FEHU_logo.svg",
 			"title": "Engineering Student",
-			"desc": "Focused on web design, user experience, and front-end development."
+			"desc": "Focused on critical and logic thinking, learning computer, electrical and mechancial skills and developing problem-solving skills."
 		}
 	],
 	"work": [
