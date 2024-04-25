@@ -66,24 +66,14 @@
 			"id": 1,
 			"category": "education",
 			"icon": "icon-graduation",
-			"year": "2019 - present",
+			"year": "septemper 2023 - september 2027",
 			"company": "Faculty of Engineering - Helwan University",
 			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/FEHU_logo.svg",
 			"title": "Engineering Student",
 			"desc": "Focused on web design, user experience, and front-end development."
 		},
 		{
-			"id": 5,
-			"category": "experience",
-			"icon": "icon-briefcase",
-			"year": "2013 - 2017",
-			"company": "Upwork",
-			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/upwork_logo.svg",
-			"title": "Front-End Developer",
-			"desc": "Developed responsive and interactive front-end solutions, translating design mockups into functional web interfaces."
-		},
-		{
-			"id": 1,
+			"id": 3,
 			"category": "education",
 			"icon": "icon-graduation",
 			"year": "October 2023 - November 2024",
@@ -91,6 +81,16 @@
 			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/NASA_logo.svg",
 			"title": "Software Manager",
 			"desc": "Led a team in developing an educational game in collaboration with NASA, aimed at teaching children about space and the solar system using authentic NASA resources."
+		},
+		{
+			"id": 2,
+			"category": "experience",
+			"icon": "icon-briefcase",
+			"year": "2013 - 2017",
+			"company": "Upwork",
+			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/upwork_logo.svg",
+			"title": "Front-End Developer",
+			"desc": "Developed responsive and interactive front-end solutions, translating design mockups into functional web interfaces."
 		},
 		{
 			"id": 4,
@@ -103,7 +103,7 @@
 			"desc": "Collaborated with clients to design visually stunning and user-friendly websites, ensuring brand consistency and seamless user experiences."
 		},
 		{
-			"id": 4,
+			"id": 5,
 			"category": "experience",
 			"icon": "icon-briefcase",
 			"year": "2019 - present",
@@ -118,7 +118,7 @@
 			"id": 1,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-1.svg",
 			"imageName": "",
-			"link": "#",
+			"link": "https://concept-engs.com/",
 			"title": "Educational Platform",
 			"projectName": "concept academy website",
 			"category": "Web Development"
@@ -127,7 +127,7 @@
 			"id": 2,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-2.svg",
 			"imageName": "",
-			"link": "#",
+			"link": "https://johk0.github.io/nasa/",
 			"projectName": "nasa game website",
 			"title": "Game Website",
 			"category": "Web Development"
@@ -136,7 +136,7 @@
 			"id": 3,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-3.svg",
 			"imageName": "",
-			"link": "#",
+			"link": "https://johk0.github.io/hung-man-game/",
 			"projectName": "hang man game",
 			"title": "Hang man game website",
 			"category": "Web Development"
@@ -146,7 +146,7 @@
 			"id": 4,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-4.svg",
 			"imageName": "",
-			"link": "#",
+			"link": "https://johk0.github.io/Homepage/",
 			"projectName": "portfolio website",
 			"title": "portfolio website",
 			"category": "Web Development"
