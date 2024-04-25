@@ -93,6 +93,16 @@
 			"desc": "Collaborated with talents to design visually stunning and user-friendly websites, ensuring brand consistency and seamless user experiences."
 		},
 		{
+			"id": 1,
+			"category": "education",
+			"icon": "icon-graduation",
+			"year": "septemper 2022 - september 2027",
+			"company": "Faculty of Engineering - Helwan University",
+			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/FEHU_logo.svg",
+			"title": "Engineering Student @ Helwan University",
+			"desc": "Focused on critical and logic thinking, learning computer, electrical and mechancial skills and developing problem-solving skills."
+		},
+		{
 			"id": 4,
 			"category": "experience",
 			"icon": "icon-briefcase",
@@ -101,16 +111,6 @@
 			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/Freelancer_logo.svg",
 			"title": "Web Designer",
 			"desc": "Collaborated with clients to design visually stunning and user-friendly websites, ensuring brand consistency and seamless user experiences."
-		},
-		{
-			"id": 1,
-			"category": "education",
-			"icon": "icon-graduation",
-			"year": "septemper 2022 - september 2027",
-			"company": "Faculty of Engineering - Helwan University",
-			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/FEHU_logo.svg",
-			"title": "Engineering Student",
-			"desc": "Focused on critical and logic thinking, learning computer, electrical and mechancial skills and developing problem-solving skills."
 		}
 	],
 	"work": [
