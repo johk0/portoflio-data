@@ -63,16 +63,6 @@
 	],
 	"experience": [
 		{
-			"id": 1,
-			"category": "education",
-			"icon": "icon-graduation",
-			"year": "septemper 2023 - september 2027",
-			"company": "Faculty of Engineering - Helwan University",
-			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/FEHU_logo.svg",
-			"title": "Engineering Student",
-			"desc": "Focused on web design, user experience, and front-end development."
-		},
-		{
 			"id": 3,
 			"category": "education",
 			"icon": "icon-graduation",
@@ -86,31 +76,41 @@
 			"id": 2,
 			"category": "experience",
 			"icon": "icon-briefcase",
-			"year": "2013 - 2017",
+			"year": "2023 April - present",
 			"company": "Upwork",
 			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/upwork_logo.svg",
 			"title": "Front-End Developer",
 			"desc": "Developed responsive and interactive front-end solutions, translating design mockups into functional web interfaces."
 		},
 		{
+			"id": 5,
+			"category": "experience",
+			"icon": "icon-briefcase",
+			"year": "May 2023 - present",
+			"company": "IEEE",
+			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/ieee_logo.svg",
+			"title": "Web Developer Vounteer",
+			"desc": "Collaborated with talents to design visually stunning and user-friendly websites, ensuring brand consistency and seamless user experiences."
+		},
+		{
 			"id": 4,
 			"category": "experience",
 			"icon": "icon-briefcase",
-			"year": "2019 - present",
+			"year": "Jan 2022 - present",
 			"company": "Freelancer",
 			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/Freelancer_logo.svg",
 			"title": "Web Designer",
 			"desc": "Collaborated with clients to design visually stunning and user-friendly websites, ensuring brand consistency and seamless user experiences."
 		},
 		{
-			"id": 5,
-			"category": "experience",
-			"icon": "icon-briefcase",
-			"year": "2019 - present",
-			"company": "IEEE",
-			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/ieee_logo.svg",
-			"title": "Web Designer",
-			"desc": "Collaborated with clients to design visually stunning and user-friendly websites, ensuring brand consistency and seamless user experiences."
+			"id": 1,
+			"category": "education",
+			"icon": "icon-graduation",
+			"year": "septemper 2022 - september 2027",
+			"company": "Faculty of Engineering - Helwan University",
+			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/FEHU_logo.svg",
+			"title": "Engineering Student",
+			"desc": "Focused on web design, user experience, and front-end development."
 		}
 	],
 	"work": [
