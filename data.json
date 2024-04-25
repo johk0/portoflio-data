@@ -5,24 +5,25 @@
 		"image-1": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/the%20author.svg",
 		"image-2": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/logo.svg",
 		"image-3": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/avatar-3.svg",
+		"cv": "https://github.com/johk0/portoflio-data/raw/main/Front-End%20Developer.pdf",
 		"imageName": "avater-1"
 	},
 	"skills": [
 		{
 			"Web Development": {
-				"precentage": 99,
+				"percentage": 99,
 				"color": "rgb(255, 76, 96)"
 			}
 		},
 		{
 			"UI & UX Design": {
-				"precentage": 85,
+				"percentage": 85,
 				"color": "rgb(108, 108, 229)"
 			}
 		},
 		{
 			"Branding": {
-				"precentage": 92,
+				"percentage": 92,
 				"color": "rgb(225,209,92)"
 			}
 		}
@@ -30,10 +31,10 @@
 	"about": [
 		{
 			"aboutInfo": {
-				"project complete": 198,
-				"cup of coffee": 837,
-				"satisfied clients": 16,
-				"nominees winner": 12
+				"projectsCompleted": 52,
+				"cupsOfCoffee": 837,
+				"satisfiedClients": 16,
+				"nomineesWinner": 12
 			}
 		}
 	],
@@ -43,21 +44,21 @@
 			"title": "UI/UX design",
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/service-1.svg",
 			"imageName": "",
-			"description": "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget."
+			"description": "I specialize in creating intuitive and visually appealing user interfaces and experiences that enhance user engagement and satisfaction."
 		},
 		{
 			"id": 2,
 			"title": "Web Development",
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/service-2.svg",
 			"imageName": "",
-			"description": "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget."
+			"description": "With expertise in modern web technologies, I develop responsive and scalable web applications tailored to meet client needs and objectives."
 		},
 		{
 			"id": 3,
-			"title": "Photography",
+			"title": "Branding Identity",
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/service-3.svg",
 			"imageName": "service-3",
-			"description": "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget."
+			"description": "Crafting unique and memorable brand identities that resonate with target audiences and differentiate businesses from competitors."
 		}
 	],
 	"experience": [
@@ -65,50 +66,41 @@
 			"id": 1,
 			"category": "education",
 			"icon": "icon-graduation",
-			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/NASA_logo.svg",
-			"year": "October 2023 - November 2024",
-			"title": "Software Manager",
-			"desc": "our target was to build a game to help kids to learn about space and the solar system depends on NASA resources."
-		},
-		{
-			"id": 2,
-			"category": "education",
-			"icon": "icon-graduation",
-			"year": "2013 - 2017",
-			"title": "Bachelor's Degree",
-			"desc": "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto."
-		},
-		{
-			"id": 3,
-			"category": "education",
-			"icon": "icon-graduation",
-			"year": "2009 - 2013",
-			"title": "Honours Degree",
-			"desc": "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto."
-		},
-		{
-			"id": 4,
-			"category": "experience",
-			"icon": "icon-briefcase",
 			"year": "2019 - present",
-			"title": "Web Designer",
-			"desc": "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto."
+			"company": "Faculty of Engineering - Helwan University",
+			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/FEHU_logo.svg",
+			"title": "Bachelor of Engineering",
+			"desc": "Focused on web design, user experience, and front-end development."
 		},
 		{
 			"id": 5,
 			"category": "experience",
 			"icon": "icon-briefcase",
 			"year": "2013 - 2017",
+			"company": "Upwork",
+			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/upwork_logo.svg",
 			"title": "Front-End Developer",
-			"desc": "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto."
+			"desc": "Developed responsive and interactive front-end solutions, translating design mockups into functional web interfaces."
 		},
 		{
-			"id": 6,
+			"id": 4,
 			"category": "experience",
 			"icon": "icon-briefcase",
-			"year": "2009 - 2013",
-			"title": "Back-End Developer",
-			"desc": "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto."
+			"year": "2019 - present",
+			"company": "Freelancer",
+			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/Freelancer_logo.svg",
+			"title": "Web Designer",
+			"desc": "Collaborated with clients to design visually stunning and user-friendly websites, ensuring brand consistency and seamless user experiences."
+		},
+		{
+			"id": 4,
+			"category": "experience",
+			"icon": "icon-briefcase",
+			"year": "2019 - present",
+			"company": "IEEE",
+			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/ieee_logo.svg",
+			"title": "Web Designer",
+			"desc": "Collaborated with clients to design visually stunning and user-friendly websites, ensuring brand consistency and seamless user experiences."
 		}
 	],
 	"work": [
@@ -117,7 +109,7 @@
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-1.svg",
 			"imageName": "",
 			"link": "#",
-			"title": "Project Management Illustration",
+			"title": "Educational Platform",
 			"category": "Design"
 		},
 		{
@@ -126,7 +118,7 @@
 			"imageName": "",
 			"link": "#",
 			"title": "Guest App Walkthrough Screens",
-			"category": "Art"
+			"category": "Game Website "
 		},
 		{
 			"id": 3,
@@ -134,7 +126,7 @@
 			"imageName": "",
 			"link": "#",
 			"title": "Delivery App Wireframe",
-			"category": "Branding"
+			"category": "Portfolio Website"
 		},
 
 		{
@@ -205,31 +197,31 @@
 			"imageName": "reviewer-1",
 			"title": "Eng. Mohamed Ahmed",
 			"subtitle": "Product designer at Dribble",
-			"comment": "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍"
+			"comment": "Youssef's work is exemplary. His attention to detail and ability to translate ideas into compelling designs is remarkable. I highly recommend him for any design project."
 		},
 		{
 			"id": 2,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/avatar-1.svg",
 			"imageName": "avater-1",
 			"title": "Eng. Ahmed sakr",
-			"subtitle": "odo software engineer",
-			"comment": "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍"
+			"subtitle": "Senior Software Engineer",
+			"comment": "Working with Youssef was a pleasure. His professionalism and expertise in web development were evident throughout the project. I look forward to collaborating with him again."
 		},
 		{
 			"id": 3,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/avatar-2.svg",
 			"imageName": "avater-2",
 			"title": "Sr. John Doe",
-			"subtitle": "Researcher at Nasa space Agency",
-			"comment": "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍"
+			"subtitle": "Researcher at NASA",
+			"comment": "Youssef's contributions to our project were invaluable. His dedication and problem-solving skills significantly enhanced the final product. I would recommend him without hesitation."
 		},
 		{
 			"id": 4,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/avatar-3.svg",
 			"imageName": "avater-3",
 			"title": "Eng. Mohab",
-			"subtitle": "Product Manger at Madar group",
-			"comment": "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍"
+			"subtitle": "Product Manager",
+			"comment": "Youssef consistently delivered high-quality work and exceeded our expectations. His professionalism and creativity make him an asset to any team."
 		}
 	]
 }
