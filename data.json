@@ -110,23 +110,26 @@
 			"imageName": "",
 			"link": "#",
 			"title": "Educational Platform",
-			"category": "Design"
+			"projectName": "concept academy website",
+			"category": "Web Development"
 		},
 		{
 			"id": 2,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-2.svg",
 			"imageName": "",
 			"link": "#",
-			"title": "Guest App Walkthrough Screens",
-			"category": "Game Website "
+			"projectName": "nasa game website",
+			"title": "Game Website",
+			"category": "Web Development"
 		},
 		{
 			"id": 3,
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-3.svg",
 			"imageName": "",
 			"link": "#",
-			"title": "Delivery App Wireframe",
-			"category": "Portfolio Website"
+			"projectName": "hang man game",
+			"title": "Hang man game website",
+			"category": "Web Development"
 		},
 
 		{
@@ -134,8 +137,9 @@
 			"image": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/work-4.svg",
 			"imageName": "",
 			"link": "#",
-			"title": "Onboarding Motivation",
-			"category": "Design"
+			"projectName": "portfolio website",
+			"title": "portfolio website",
+			"category": "Web Development"
 		},
 
 		{
@@ -153,7 +157,7 @@
 			"imageName": "",
 			"link": "#",
 			"title": "Game Store App Concept",
-			"category": "Art"
+			"category": "Creative"
 		}
 	],
 	"pricing": [
