@@ -69,7 +69,7 @@
 			"year": "2019 - present",
 			"company": "Faculty of Engineering - Helwan University",
 			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/FEHU_logo.svg",
-			"title": "Bachelor of Engineering",
+			"title": "Engineering Student",
 			"desc": "Focused on web design, user experience, and front-end development."
 		},
 		{
@@ -81,6 +81,16 @@
 			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/upwork_logo.svg",
 			"title": "Front-End Developer",
 			"desc": "Developed responsive and interactive front-end solutions, translating design mockups into functional web interfaces."
+		},
+		{
+			"id": 1,
+			"category": "education",
+			"icon": "icon-graduation",
+			"year": "October 2023 - November 2024",
+			"company": "NASA",
+			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/NASA_logo.svg",
+			"title": "Software Manager",
+			"desc": "Led a team in developing an educational game in collaboration with NASA, aimed at teaching children about space and the solar system using authentic NASA resources."
 		},
 		{
 			"id": 4,
