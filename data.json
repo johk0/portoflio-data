@@ -83,6 +83,16 @@
 			"desc": "Developed responsive and interactive front-end solutions, translating design mockups into functional web interfaces."
 		},
 		{
+			"id": 1,
+			"category": "education",
+			"icon": "icon-graduation",
+			"year": "septemper 2022 - september 2027",
+			"company": "Faculty of Engineering - Helwan University",
+			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/FEHU_logo.svg",
+			"title": "Engineering Student @ HU",
+			"desc": "Focused on critical and logic thinking, learning computer, electrical and mechancial skills and developing problem-solving skills."
+		},
+		{
 			"id": 5,
 			"category": "education",
 			"icon": "icon-briefcase",
@@ -91,16 +101,6 @@
 			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/ieee_logo.svg",
 			"title": "Web Developer Vounteer",
 			"desc": "Collaborated with talents to design visually stunning and user-friendly websites, ensuring brand consistency and seamless user experiences."
-		},
-		{
-			"id": 1,
-			"category": "education",
-			"icon": "icon-graduation",
-			"year": "septemper 2022 - september 2027",
-			"company": "Faculty of Engineering - Helwan University",
-			"logo": "https://raw.githubusercontent.com/johk0/portoflio-data/main/assets/FEHU_logo.svg",
-			"title": "Engineering Student @ Helwan University",
-			"desc": "Focused on critical and logic thinking, learning computer, electrical and mechancial skills and developing problem-solving skills."
 		},
 		{
 			"id": 4,
