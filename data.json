@@ -8,7 +8,11 @@
 		"cv": "https://github.com/johk0/portoflio-data/raw/main/Front-End%20Developer.pdf",
 		"jobTitle": "Web Developer",
 		"imageName": "avater-1",
-		"inspect": "true"
+		"inspect": "true",
+		"facebook": "https://www.facebook.com/johk.69",
+		"linkedIn": "https://www.linkedin.com/in/youssefea",
+		"whatsapp": "https://wa.me/201229254999?text=Hello",
+		"instagram": "https://www.instagram.com/johk0"
 	},
 	"skills": [
 		{
